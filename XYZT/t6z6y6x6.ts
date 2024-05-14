@@ -29,14 +29,14 @@ export function z6(){
 export function t6(){
     do `x6*y6`
     while ({
-        z6: `0,z>=8,z--`
+        z6: `0,z>=6,z--`
     })
     do `x6*z6`
     while ({
-        y6: `0,z>=8,y--`
+        y6: `0,z>=6,y--`
     })
     do `y6*z6`
     while ({
-        x6: `0,x>=8,x--`
+        x6: `0,x>=6,x--`
     })
 }
