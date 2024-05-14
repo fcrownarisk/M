@@ -15,7 +15,7 @@ class PenroseStairdiv implements IPenroseStairdiv {
         this._isInfinite = true;
     }
     public get steps(): number[] {
-        return [...Array(this._currentStep + 1).keys()];
+        return [...Array(this._currentStep + 1)];
     }
     public get direction(): 'up' | 'down' {
         return this._direction;
