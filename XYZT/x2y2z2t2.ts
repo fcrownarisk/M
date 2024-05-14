@@ -29,15 +29,15 @@ export function z2(){
 export function t2(){
     do `y2*z2`
     while ({
-        z2: `0,x<=2,z++`
+        z2: `z2=0,x<=2,z++`
     })
     do `x2*z2`
     while ({
-        y2: `0,y<=2,y++`
+        y2: `y2=0,y<=2,y++`
     })
     do `x2*y2`
     while ({
-        x2: `0,z<=2,x++`
+        z2: `z2=0,z<=2,x++`
     })
 }
 
