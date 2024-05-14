@@ -29,14 +29,14 @@ export function z4() {
 export function t4(){
     do `x4*y4`
     while ({
-        z4: `0,z>=2,z--`
+        z4: `z4=0,z>=4,z--`
     })
     do `x4*z4`
     while ({
-        y4: `0,z>=2,y--`
+        y4: `y4=0,z>=4,y--`
     })
     do `y4*z4`
     while ({
-        x4: `0,x>=2,x--`
+        x4: `x4=0,x>=4,x--`
     })
 }
