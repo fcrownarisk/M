@@ -18,9 +18,9 @@ interface iteration{
 }
 namespace NodeIterator{
     number:["tensor % color % 112"]
-    AsyncGenerator: "number"
+    AsyncGenerator: any
     Number:["tensor / color / 112"]
-    AsyncGeneratorFunction: "number"
+    AsyncGeneratorFunction: any
     tonumber:["tensor | color | 112"]
-    AsyncGeneratorFunctionConstructor: "number"
+    AsyncGeneratorFunctionConstructor: any
 }
