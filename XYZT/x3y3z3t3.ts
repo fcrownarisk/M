@@ -15,9 +15,9 @@ export function x3() {
                 console.log()
 }
 export function y3(){
-    for (let l = 0;l >= -9 && l <= 9; l++ || l--)
-        for(let m = 0;m >= -9 && m <= 9;m++ || m--)
-            for(let n = 0;n >= -9 && n <= 9;n++ || n--)
+    for (let l = 0;l <= -9 && l <= 9; l++ || l--)
+        for(let m = 0;m <= -9 && m <= 9;m++ || m--)
+            for(let n = 0;n <= -9 && n <= 9;n++ || n--)
                 console.log()
 }
 export function z3() {
