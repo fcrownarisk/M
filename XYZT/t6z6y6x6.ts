@@ -21,22 +21,22 @@ export function y6(){
                 console.log()
 }
 export function z6(){
-    for(let O = 0; O >= 8; O--)
-        for(let P = 0; P >= 8; P--)
-            for(let Q  = 0; Q >= 8; Q--)
+    for(let O = 0; O >= -8; O--)
+        for(let P = 0; P >= -8; P--)
+            for(let Q  = 0; Q >= -8; Q--)
                 console.log()
 }
 export function t6(){
     do `x6*y6`
     while ({
-        z6: `0,z>=8,z--`
+        z6: `0,z>=6,z--`
     })
     do `x6*z6`
     while ({
-        y6: `0,z>=8,y--`
+        y6: `0,z>=6,y--`
     })
     do `y6*z6`
     while ({
-        x6: `0,x>=8,x--`
+        x6: `0,x>=6,x--`
     })
 }
