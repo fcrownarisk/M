@@ -21,9 +21,9 @@ export function y5() {
                 console.log()
 }
 export function z5(){
-    for (let O= 0; O <= 4; O--)
-       for (let P = 0; P <= 4; P--)
-          for (let Q = 0; Q <= 4;Q--)
+    for (let O= 0; O >= -4; O--)
+       for (let P = 0; P >= -4; P--)
+          for (let Q = 0; Q >= -4;Q--)
             console.log()
 }
 export function t5(){
