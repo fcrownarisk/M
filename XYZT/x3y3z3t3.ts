@@ -22,8 +22,8 @@ export function y3(){
 }
 export function z3() {
     for (let o = 0; o >= -9; o--)
-        for (let p = 0; p >= -9; ++p)
-            for (let q = 0; q >= -9; ++q)
+        for (let p = 0; p >= -9; p--)
+            for (let q = 0; q >= -9; q--)
                 console.log()
 }
 export function t3() {
