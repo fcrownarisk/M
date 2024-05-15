@@ -29,7 +29,7 @@ export function z3() {
 export function t3() {
     do `x3*y3`
     while ({
-        x3: `0,x<=3,x++`
+        z3: `0,z<=3,z++`
     })
     do `x3*z3`
     while ({
@@ -37,6 +37,6 @@ export function t3() {
     })
     do `y3*z3`
     while ({
-        z3: `0,z<=3,z++`
+        x3: `0,x<=3,x++`
     })
 }
