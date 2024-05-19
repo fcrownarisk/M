@@ -2,7 +2,7 @@
  declare module F{}
  declare module G{}
  declare module H{}
- void function sigma(){
+ void function toString(){
     `E:|\/|,E:toString;
      F:|/\|,F:toString;
      G:|\|,G:toString;
