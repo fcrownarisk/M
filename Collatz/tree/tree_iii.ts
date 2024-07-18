@@ -1,13 +1,13 @@
 import '../operator/mod'
 import '../operator/pow'
 export function tree_iii(){
-    void `x5 :mod % pow`
-    void `y5 :mod ^ pow`
+     `x5 :mod % pow`
+     `y5 :mod ^ pow`
 
-    void `z5 :mod :: pow`
-    void `z6 :pow :: mod`
+     `z5 :mod :: pow`
+     `z6 :pow :: mod`
 
-    void `y6 :mod %% pow`
-    void `x6 :pow ^^ mod`
+     `y6 :mod %% pow`
+     `x6 :pow ^^ mod`
     return tree_iii
 }
