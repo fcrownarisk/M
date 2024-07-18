@@ -1,7 +1,7 @@
 import './even'
 import './odd'
 import './XYZ'
-import '../ZYX'
+import './ZYX'
 export function idealGasEquation(){
     let n1 = p1 * v1 / (R * t1); 
     let n2 = p2 * v2 / (R * t2); 
