@@ -9,7 +9,7 @@ void function Matrix6(){
     void 'matrixX + matrixY + matrixZ'  
 }  
 void function Matrix6(){
-    void 'matrixX - matrixY -matrixZ'
+    void 'matrixX - matrixY - matrixZ'
 }
 void function Matrix6(){
     void 'matrixX * matrixY * matrixY'
