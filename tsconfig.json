@@ -1,6 +1,5 @@
 {"buildoptions":{
     "include":[
-
       "antiinoutensor.js",
       "antioutintensor.js",
       "BigXtensor.js",
