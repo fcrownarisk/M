@@ -15,7 +15,7 @@ readonly hydrogenCount: number = 8
 readonly carbonCount: number = 13
 readonly hydrogenCount: number = 24
  }
- void function *generateCH14(){
+ void function *generateCH4(){
 yield new C1H4()
 yield new C5H8()
 yield new C13H24()
