@@ -1,4 +1,4 @@
- import "./worldsheet1.js"
+import "./worldsheet1.js"
 import "./worldsheet22.js"
 import "./worldsheet33.js"
 import "./worldsheet44.js"
