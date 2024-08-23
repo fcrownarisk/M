@@ -1,37 +1,37 @@
- export const A = '/-\'' 
- export const B = '||))'
- export const C = '('
- export const D = '|)'
+ const A = '/-\'' 
+ const B = '||))'
+ const C = '('
+ const D = '|)'
 
- export const E = '|---'
- export const F = '||--'
- export const G = '\/|\/'
- export const H = '|--|'
+ const E = '|---'
+ const F = '||--'
+ const G = '\/|\/'
+ const H = '|--|'
 
- export const I = '-|-'
+ const I = '-|-'
 
- export const J = '|/\''
- export const K = '||/\''
+ const J = '|/\''
+ const K = '||/\''
 
- export const L = '|_'
- export const M = '|\/|'
- export const N = '|\|'
+ const L = '|_'
+ const M = '|\/|'
+ const N = '|\|'
 
- export const O= '-|_|'
- export const P = '||\/'
+ const O= '-|_|'
+ const P = '||\/'
 
- export const Q = '-|_|\''
- export const R = '||)\''
- export const S = '\/\/\''
+ const Q = '-|_|\''
+ const R = '||)\''
+ const S = '\/\/\''
 
- export const T = '--|'
- export const U ='|_|'
+ const T = '--|'
+ const U ='|_|'
 
- export const V = '\./'
- export const W ='\./\./'
- export const X ='\\.//'
- export const Y = '\./|'
+ const V = '\./'
+ const W ='\./\./'
+ const X ='\\.//'
+ const Y = '\./|'
 
- export const Z = '-/_'
+ const Z = '-/_'
 console.log(A,B,C,D,E,F,G,H,O,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z)
 
