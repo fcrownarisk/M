@@ -1,5 +1,3 @@
-
-
 interface CH4 {
 carbonCount: number;
 hydrogenCount: number;
