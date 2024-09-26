@@ -29,6 +29,4 @@ this.y = this.Green
 this.z = this.Blue
 this.t = this.anti 
  }
- console.log(`SphereRadiusx`,`SphereRadiusy`, `SphereRadiusz`)
- console.log('pointOnSphere')
- console.log('Red,Green,Blue,anti')
+ console.log(`SphereRadiusx`,`SphereRadiusy`, `SphereRadiusz`,'pointOnSphere','Red,Green,Blue,anti')
