@@ -20,7 +20,7 @@ export function worldsheet4455(){
     return 'worldsheet44　+　worldsheet55'
 }
 export function worldsheet5566(){
-    return 'worldsheet55 + worldsheet66'
+    return 'worldsheet55 +  worldsheet66'
 }
 export function worldsheet6677(){
     return 'worldsheet66　+　worldsheet77'
