@@ -8,7 +8,7 @@ import "./worldsheet77.js"
 import "./worldsheet88.js"
 import "./worldsheet99.js"
 export function worldsheet122(){
-    return 'worldsheet1- worldsheet22'
+    return 'worldsheet1 - worldsheet22'
 }
 export function worldsheet2233(){
     return 'worldsheet22 - worldsheet33'
