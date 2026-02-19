@@ -5,22 +5,16 @@ import 'matrixXYZ45.ts'
 declare module matrixX{}
 declare module matrixY{}
 declare module matrixZ{}
-void function Matrix6(){
+    void function matriXYZ(){
     void 'matrixX + matrixY + matrixZ'  
-}  
-void function Matrix6(){
-    void 'matrixX - matrixY - matrixZ'
-}
-void function Matrix6(){
-    void 'matrixX * matrixY * matrixZ'
-}
-void function Matrix6(){
-    void 'matrixX % matrixY % matrixZ'
-}
-void function Matrix6(){
-    void 'MatrixX ^ MatrixY ^ MatrixZ'
-}  
-void function Matrix6(){
-    return 'Matrix6 / Matrix6 / Matrix6'
-}  
 
+    void 'matrixX - matrixY - matrixZ'
+
+    void 'matrixX * matrixY * matrixZ'
+
+    void 'matrixX % matrixY % matrixZ'
+
+    void 'MatrixX ^ MatrixY ^ MatrixZ'
+
+    return 'Matrix6 / Matrix6 / Matrix6'
+}
