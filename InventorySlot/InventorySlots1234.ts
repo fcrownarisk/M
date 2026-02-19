@@ -4,7 +4,7 @@ import './XYZT/x3y3z3t3'
 import './return/returnnnnn'
 import './return/returnnnnnn'
 import './return/returnnnnnnn'
-void function InventorySlots1() {
+function InventorySlots1() {
     return [
         {axis: 'x', items: '-- -- -- --'},
         {axis: 'y', items: '|| || || ||'},
@@ -13,7 +13,7 @@ void function InventorySlots1() {
     ]
 }
 
-void function InventorySlots2(){
+function InventorySlots2(){
     return [
         {axis: 'x1', items: '?? ?? ?? ??'},
         {axis: 'y1', items: '$$ $$ $$ $$'},
@@ -22,16 +22,16 @@ void function InventorySlots2(){
     ]
 }
 
-void function InventorySlots3() {
+function InventorySlots3() {
     return [
-        {axis: 'x2', items: '()() ()() ()() ()()'},
-        {axis: 'y2', items: '[][] [][] [][] [][]'},
-        {axis: 'z2', items: '{}{} {}{} {}{} {}{}'},
-        {axis: 't2', items: '<><> <><> <><> <><>'},
+        {axis: 'x2', items: '<><> <><> <><> <><>'},
+        {axis: 'y2', items: '()() ()() ()() ()()'},
+        {axis: 'z2', items: '[][] [][] [][] [][]'},
+        {axis: 't2', items: '{}{} {}{} {}{} {}{}'},
     ]
 }
 
-void function InventorySlots4(){
+function InventorySlots4(){
     return [
         { axis: 'x3', items: '++ ++ ++ ++' },
         { axis: 'y3', items: '-- -- -- --' },
