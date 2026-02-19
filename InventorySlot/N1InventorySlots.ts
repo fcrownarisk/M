@@ -2,7 +2,7 @@ import './cvgl/Bigletter/M'
 import './cvgl/Bigletter/N'
 import './cvgl/Bigletter/O'
 import './cvgl/Bigletter/P'
-void function N1InventorySlots() {
+function N1InventorySlots(){
     this.Cache = 'M'
     this.CacheStorage = 'N'
     this.CanvasRenderingContext2D= 'O'
