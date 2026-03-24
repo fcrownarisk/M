@@ -4,3 +4,6 @@ export const six={
 export const seven={
     'y1 + y2 + y3 + y4 + y5 + y6':{}
 }
+export const eight={
+    'z1 + z2 + z3 + z4 + z5 + z6':{}
+}
