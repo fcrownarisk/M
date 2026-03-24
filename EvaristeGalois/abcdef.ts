@@ -1,4 +1,3 @@
-import '6.js'
-import '7.js'
-import '8.js'
-import '9.js'
+export const six={
+    'x1 + x2 + x3 + x4 + x5 + x6':{}
+}
